@@ -7,3 +7,54 @@
 .hcolor{
     color: #FF136F;
 }
+.categories,.categories h1 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: white;
+}
+.cat1{
+    background-image: linear-gradient(orange,salmon);
+}
+.cat2{
+    background-image: linear-gradient(orchid, rgb(112, 6, 112));
+}
+.cat3{
+    background-image: linear-gradient(lightblue, blue);
+}
+.cat1,.cat2,.cat3{
+      padding: 10px 30px;
+      border-radius: 10px;
+      background-image: linear-gradient();
+}
+.card{
+    display: flex;
+    margin: 30px 30px 0px 0px;
+    border: none;
+    padding: 20px;
+    box-shadow: 5px 5px 5px 8px #fceae8;
+}
+.backpack{
+    display: flex;
+    margin: 30px 30px 0px 0px;
+    border: none;
+    padding: 10px;
+    box-shadow: 5px 5px 5px 8px rgb(153, 122, 151);
+}
+#pack{
+    margin-top: 70px;
+}
+#subscribe{
+    padding-top: 8%;
+    text-align: center;
+    margin-top: 70px;
+    height: 300px;
+}
+#resize{
+    width: 30%;
+    margin-left: 35%;
+    margin-bottom: 1%;
+}
+.cp-text{
+     text-align: center; padding:5%;
+}
+
